@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Power BI, Excel, Oracle SQL, MySQL, SQLite, Swift, FireBase, Git, Github**
 
-- 📫 How to reach me **metin.qardasov2003@gmail.com**
+- 📫 Contact with me **metin.qardasov2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
