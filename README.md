@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=metinqardasov11" alt="metinqardasov11" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Power BI, Excel, Oracle SQL, Swift**
+- 🌱 I’m currently learning **Python, Power BI, Excel, Oracle SQL, MySQL**
 
 - 📫 How to reach me **metin.qardasov2003@gmail.com**
 
