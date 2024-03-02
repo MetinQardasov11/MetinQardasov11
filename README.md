@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python,Web Scraping,Api,Django,Oracle SQL,MySQL**
 
-- 👨‍💻 All of my projects are available at [https://metinqardasov11.github.io/](https://metinqardasov11.github.io/)
-
 - 📫 How to reach me **metin.qardasov2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
