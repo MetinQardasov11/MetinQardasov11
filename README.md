@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django, RestfulAPI**
+- 🌱 I’m currently learning **Django, Flask, Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matin gardashov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matin gardashov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matin-gardashov-1130bb225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matin gardashov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
