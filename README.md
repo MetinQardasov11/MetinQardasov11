@@ -8,7 +8,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
-            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"></th>
+            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></th>
 <th>
     <br>
     
