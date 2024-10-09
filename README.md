@@ -35,7 +35,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/matin-gardashov-1130bb225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matin gardashov" height="30" width="40" /></a>
 <a href="https://www.facebook.com/metin.qardasov.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="matin gardashov" height="30" width="40" /></a>
-<a href="https://www.instagram.com/metinqardasov11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matin gardashov" height="30" width="40" /></a>
   
 </p>
 
