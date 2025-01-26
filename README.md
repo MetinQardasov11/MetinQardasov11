@@ -5,32 +5,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=metinqardasov11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<table cellspacing="0" cellpadding="0" style="border: none;">
-    <tr>
-        <th>
-            <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290"></th>
-<th>
-    <br>
-    
-- 🚀 I specialize in Python Django, RestAPI development, with a strong focus on the following technologies:
-
-- Django, Django Rest, for task management, PostgreSQL for database management
-
-- 📝 You can find my articles and in-depth technical insights at my [website](https://www.linkedin.com/in/matin-gardashov-1130bb225/)
-
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/matin-gardashov-1130bb225/) to stay updated on my professional journey.
-
-- 📧 Feel free to reach out to me via email at metin.qardasov2003@gmail.com
-
-- 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/MetinQardasov11).
-
-- 💬 Don't hesitate to ask me about **Python, Django, Rest Framework, PostgreSQL, HTML, CSS, Javascript**  I'm here to share my knowledge and insights with you.
-        </th>
-    </tr>
-</table>
-<br>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matin-gardashov-1130bb225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matin gardashov" height="30" width="40" /></a>
