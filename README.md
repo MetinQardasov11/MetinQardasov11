@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metinqardasov11&label=Profile%20views&color=0e75b6&style=flat" alt="metinqardasov11" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=metinqardasov11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=metinqardasov11&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
